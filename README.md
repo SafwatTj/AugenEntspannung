@@ -5,6 +5,9 @@
 ---
 
 ## 📖 Beschreibung
+## 📸 Screenshot
+
+![AugenEntspannung Hauptfenster](screenshots/screenshot.png)
 
 **AugenEntspannung** ist ein kostenloses Programm, das hilft, müde Augen in **30–120 Sekunden** zu entspannen.
 
