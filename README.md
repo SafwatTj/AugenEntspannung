@@ -5,13 +5,16 @@
 ---
 
 ## 📖 Beschreibung
-## 📸 Screenshot
-
-![AugenEntspannung Hauptfenster](screenshots/screenshot.png)
 
 **AugenEntspannung** ist ein kostenloses Programm, das hilft, müde Augen in **30–120 Sekunden** zu entspannen.
 
 Sie müssen nichts tun – einfach **auf den Bildschirm schauen**. Keine Übungen, keine Handbewegungen. Die gesamte Behandlung erfolgt durch **Licht, Farbe, Bewegung und Rhythmen**.
+
+---
+
+## 📸 Screenshot
+
+![AugenEntspannung Hauptfenster](screenshots/Screenshot.png)
 
 ---
 
@@ -43,6 +46,7 @@ Das Programm basiert auf Daten aus Peer-Review-Studien (2012–2025):
 ## 🎮 Bedienung
 
 ### Tastatur
+
 | Taste | Aktion |
 |-------|--------|
 | `1` | Modus 30 s wählen |
@@ -54,6 +58,7 @@ Das Programm basiert auf Daten aus Peer-Review-Studien (2012–2025):
 | `ESC` | Beenden |
 
 ### Bildschirmtasten
+
 - **30s / 60s / 2min** — Modus wählen
 - **START** — Starten
 - **STOP** — Stoppen
@@ -64,6 +69,7 @@ Das Programm basiert auf Daten aus Peer-Review-Studien (2012–2025):
 ## ⚠️ Kontraindikationen
 
 **Absolute (NICHT verwenden):**
+
 - Epilepsie (lichtempfindliche Form)
 - Glaukom (Grüner Star)
 - Netzhautablösung (in der Vorgeschichte)
@@ -71,6 +77,7 @@ Das Programm basiert auf Daten aus Peer-Review-Studien (2012–2025):
 - Schwere Hypertonie
 
 **Relative (Arztkonsultation erforderlich):**
+
 - Diabetische Retinopathie
 - Makuladegeneration
 - Katarakt (späte Stadien)
@@ -83,11 +90,13 @@ Das Programm basiert auf Daten aus Peer-Review-Studien (2012–2025):
 ## 📥 Installation und Start
 
 ### Variante 1: Fertige .exe (empfohlen)
+
 1. Laden Sie `AugenEntspannung.exe` aus dem Bereich [Releases](https://github.com/SafwatTj/AugenEntspannung/releases) herunter
 2. Starten Sie die Datei
 3. Lesen Sie die Warnung und drücken Sie eine beliebige Taste
 
 ### Variante 2: Aus dem Quellcode
+
 ```bash
 git clone https://github.com/SafwatTj/AugenEntspannung.git
 cd AugenEntspannung
